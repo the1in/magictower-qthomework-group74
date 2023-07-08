@@ -1,7 +1,10 @@
 # magictower-qthomework-group74
 #pku程设大作业  
+#
 #组号 74 
+#
 #组名 人工智能基础 
+#
 #组长 元铭宇 组员 廖丁鸥 梁泽名
 #
 #
